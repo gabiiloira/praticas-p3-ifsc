@@ -2,8 +2,8 @@
  * 
  */
 /**
- * @author Aluno
+ * @author USUARIO
  *
  */
-module lista06 {
+module lista3 {
 }
